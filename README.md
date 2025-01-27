@@ -23,7 +23,7 @@ I specialize in solving complex industry, science, and data problems using machi
     Healthcare Optimization AI (in progress)
     Developing machine learning models to optimize billing processes, enhance data collection, and improve insurance acceptance rates in healthcare.
 
-    YouTube Thumbnail Analysis CNN
+    YouTube Thumbnail Analysis CNN (in progress)
     Building a model to identify and predict the most effective thumbnail designs for maximizing engagement.
 
 🧠 Skills:
